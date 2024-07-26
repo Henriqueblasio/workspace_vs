@@ -23,5 +23,5 @@ function entrar(){
 
 function sair(){
  alert("Até mais !");
- area.innerHTML = "Você saiu !"
+ area.innerHTML = "Até logo!"
 }
